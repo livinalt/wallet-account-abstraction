@@ -1,0 +1,56 @@
+.wallet-container {
+    max-width: 30rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    border: 2px solid #e2e8f0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+  }
+  
+  .wallet-container h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #4a5568;
+    margin-bottom: 1.5rem;
+  }
+  
+  .wallet-container h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #4a5568;
+    margin-bottom: 1rem;
+  }
+  
+  .wallet-container p {
+    font-size: 0.875rem;
+    color: #4a5568;
+  }
+  
+  .wallet-container input[type="text"],
+  .wallet-container button {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.375rem;
+    margin-bottom: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .wallet-container input[type="text"]:focus,
+  .wallet-container button:focus {
+    outline: none;
+    border-color: #63b3ed;
+  }
+  
+  .wallet-container button {
+    background-color: #4a90e2;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .wallet-container button:hover {
+    background-color: #3182ce;
+  }
+  
