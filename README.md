@@ -1,6 +1,6 @@
 # Smart Contract Wallet
 
-This project implements a smart contract wallet system using Solidity and account abstraction. It allows users to create their own smart contract wallets and perform basic wallet operations such as sending and receiving funds, as well as checking wallet balances.
+This project implements a smart contract wallet system using Solidity and account abstraction. It allows users to create their smart contract wallets and perform basic wallet operations such as sending and receiving funds, as well as checking wallet balances.
 
 ## Features
 
@@ -103,4 +103,3 @@ Contributions are welcome. Please follow the standard GitHub flow:
 
 This project is licensed under the MIT License.
 
-Feel free to modify this README.md file as needed to suit your project's specific requirements.
