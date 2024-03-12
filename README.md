@@ -95,8 +95,12 @@ Contributions are welcome. Please follow the standard GitHub flow:
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
+## Contact
+**Author** : Jeremiah Samuel
+**Email** : livinalt@gmail.com 
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 Feel free to modify this README.md file as needed to suit your project's specific requirements.
